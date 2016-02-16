@@ -1,0 +1,142 @@
+
+* {
+  margin: 0;
+  padding: 0;
+    }
+
+html {background: #FFF0F5;
+    }
+
+body {background: white ;
+        margin: auto;
+        padding: 20px 40px 20px 40px;
+        width: 800px;
+        height: 1200px;
+        font-family: Arial;
+        font-size: 15px;
+        border: 1px;
+        outline: 1px solid grey;
+        }
+
+h1 {font-family:Aparajita Regular;
+        font-size: 50px;
+        padding-bottom: 35px;
+        }
+
+.menu {display: inline-block;
+        padding-top: 20px;
+        height: 28px;
+        width: 800px;
+        font-size: 15px;
+        background-color: dimgray;
+        }
+
+
+.main {padding: 20px 50px 10px 10px;
+        text-decoration: none;
+        color: white;
+        background-color: dimgray;
+}
+
+
+
+.product {padding: 20px 50px 10px 10px;
+            text-decoration: none;
+            color: white;
+            background-color: dimgray;
+            }
+
+
+
+.info {padding: 20px 50px 10px 10px;
+        text-decoration: none;
+        color: white;
+        background-color: dimgray;
+        }
+
+
+
+.contakt {padding: 20px 50px 10px 10px;
+            text-decoration: none;
+            color: white;
+            background-color: dimgray;
+            }
+
+.main:hover{ background-color: #333333;}
+.product:hover{ background-color: #333333;}
+.info:hover{ background-color: #333333;}
+.contakt:hover{ background-color: #333333;}
+
+
+
+
+.side-bar{float: left;
+    padding-top: 38px;
+    list-style: none;
+    }
+    
+.phoun, .smart, .table, .nout, .comp {text-decoration: none;
+                                        padding: 10px 10px 10px 10px;
+                                        margin: 10px 10px 10px 10px;
+                                        color: grey;
+                                        }
+.phoun:hover{color: black} 
+.smart:hover{color: black} 
+.table:hover{color: black} 
+.nout:hover{color: black}
+.comp:hover{color: black}
+
+.box {height: 28px;
+        width: 220px;
+        outline: 1px solid grey;
+        padding-top: 10px;
+        padding-left: 10px;
+     }
+
+
+
+img { width: 500px;
+        float: right;
+    }
+
+.content { width: 500px;
+            padding: 20px 0px 20px 10px;
+            float: right;
+        }
+.menu2 {display: inline-block;
+        padding-top: 20px;
+        height: 28px;
+        width: 800px;
+        font-size: 15px;
+        background-color:gainsboro;}
+
+.main2 {padding: 20px 50px 10px 10px;
+        text-decoration: none;
+        color: black;
+        }
+
+
+
+.product2 {padding: 20px 50px 10px 10px;
+            text-decoration: none;
+            color: black;
+            }
+
+
+
+.info2 {padding: 20px 50px 10px 10px;
+        text-decoration: none;
+        color: black;
+        }
+
+
+
+.contakt2 {padding: 20px 50px 10px 10px;
+            text-decoration: none;
+            color: black;
+            }
+
+.main2:hover{text-decoration: underline}
+.product2:hover{text-decoration: underline}
+.info2:hover{text-decoration: underline}
+.contakt2:hover{text-decoration: underline}
